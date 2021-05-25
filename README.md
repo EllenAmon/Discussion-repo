@@ -2,7 +2,7 @@
 
 Are we all able to see the discusion repository guys,,?
 HI yes i can actually... well let me give my suggestion
-Well we can mix CLIENT SOLUTION, AND JOSUA HUMAN RESOURCE +ELLEN PSEUDO CODE LET ME WRITE DOWN WAHT I MEAN 
+Well we can mix CLIENT SOLUTION, AND JOSUA HUMAN RESOURCE +ELLEN PSEUDOCODE LET ME WRITE DOWN WHAT I MEAN 
 
 
 
@@ -44,12 +44,12 @@ ENDIF
 END
 
 PROMPT payement
-GET payement
+ GET payement
 
-payement=INPUT("How do you want to pay?:Credit Card, Cash")
-IF payement=stg("Credit card") THEN
+payment=INPUT("How do you want to pay?:Credit Card, Cash")
+IF payment= Credit card THEN
                 DISPLAY("Enter your Credit card number")
- ELSE DISPLAY  (Please feel free to reach our distributors Iscgem Pharmacies Namibia and Pnp Namibia stores")
+ ELSE DISPLAY  (Please feel free to reach our distributors DISCHEM Pharmacies Namibia and PnP Namibia stores")
  ENDIF
  END
  
@@ -181,6 +181,6 @@ ENDFOR
 For e = 1 to num DO
 Print item(e)
 ENDFOR
-STOPp
+STOP
 
 
